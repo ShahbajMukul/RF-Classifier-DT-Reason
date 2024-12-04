@@ -1,0 +1,10 @@
+features
+Duration
+StartTime
+EndTime
+MachineType_Husky Injection Molder
+MachineType_Krones Blowmolder
+MachineType_Sidel Blowmolder
+MachineLocation_Downtown
+MachineLocation_Pontiac
+MachineLocation_Westland
